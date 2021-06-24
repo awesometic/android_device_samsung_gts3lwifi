@@ -1,0 +1,9 @@
+# ACDB data
+vendor/etc/General_cal.acdb
+vendor/etc/Hdmi_cal.acdb
+vendor/etc/Headset_cal.acdb
+vendor/etc/Bluetooth_cal.acdb
+vendor/etc/Speaker_cal.acdb
+vendor/etc/Handset_cal.acdb
+vendor/etc/Global_cal.acdb
+vendor/etc/workspaceFile.qwsp
