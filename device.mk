@@ -21,5 +21,9 @@ $(call inherit-product, vendor/samsung/gts3lwifi/gts3lwifi-vendor.mk)
 DEVICE_PACKAGE_OVERLAYS += \
     $(LOCAL_PATH)/overlay
 
+# Device init scripts
+PRODUCT_PACKAGES += \
+    init.gts3lwifi.rc
+
 # Inherit from gts3l-common
 $(call inherit-product, device/samsung/gts3l-common/gts3l.mk)
