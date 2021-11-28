@@ -23,7 +23,7 @@ DEVICE_PATH := device/samsung/gts3lwifi
 TARGET_OTA_ASSERT_DEVICE := gts3lwifi
 
 # Kernel
-TARGET_KERNEL_CONFIG := lineage_gts3lwifi_defconfig
+TARGET_KERNEL_CONFIG := gts3lwifi_defconfig
 
 # inherit from the proprietary version
 include vendor/samsung/gts3lwifi/BoardConfigVendor.mk
