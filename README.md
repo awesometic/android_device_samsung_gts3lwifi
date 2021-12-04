@@ -34,12 +34,6 @@
         revision="lineage-18.1"
         remote="github" />
 
-    <remove-project name="LineageOS/android_frameworks_native" />
-    <project name="awesometic/android_frameworks_native"
-        path="frameworks/native"
-        revision="lineage-18.1-spen-palm-rejection"
-        remote="github" />
-
     <project name="LineageOS/android_device_samsung_qcom-common"
         path="device/samsung/qcom-common"
         revision="lineage-18.1"
